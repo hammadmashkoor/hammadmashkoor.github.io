@@ -1,2 +1,0 @@
-# hammadmashkoor.github.io
-Resume
