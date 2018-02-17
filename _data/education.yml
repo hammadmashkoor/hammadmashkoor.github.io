@@ -3,12 +3,13 @@
   uni: Osmania University, Hyderabad
   year: 2012 &mdash; 2014
   awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Followed my passion in a core of simulation and network classes.
+    - award: Excelled in web experience and web interfaces.
+  summary: I love what I do
 
 - degree: B.Tech, Computer Science & Engineering
   uni: J.N.T.U, Hyderabad
   year: 2008 &mdash; 2012
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+  awards:
+    - award: Followed my passion in a core of web design and modelling classes.
+  summary: I love what I do
