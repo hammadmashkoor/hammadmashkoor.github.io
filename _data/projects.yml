@@ -1,14 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
+# geekquench.com
 - project: geekquench.com
   role: Founder
   duration: 2017 &mdash; Present
   url: "http://geekquench.com"
   description: Geek Quench is a blogging platform for bloggers to express their ideas in Technology, Science, Gadgets, Electronics, Lifestyle, Entertainment and much more.
 
-#Springfield Donut Eater's User Group
+# allenhouse.ac.in
 - project: allenhouse.ac.in
   role: Primary Developer
   duration: 2016 &mdash; Present
