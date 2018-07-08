@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# geekquench.com
-- project: geekquench.com
-  role: Founder
+# translate.wordpress.org
+- project: translate.wordpress.org
+  role: Contributor-Polyglot
   duration: 2017 &mdash; Present
-  url: "http://geekquench.com"
-  description: Geek Quench is a blogging platform for bloggers to express their ideas in Technology, Science, Gadgets, Electronics, Lifestyle, Entertainment and much more.
+  url: "hhttps://profiles.wordpress.org/hammadlari"
+  description: Active contribution to translation of WordPress platform, its themes and plugins.
 
-# allenhouse.ac.in
-- project: allenhouse.ac.in
-  role: Primary Developer
-  duration: 2016 &mdash; Present
-  url: "http://allenhouse.ac.in"
-  description: Allenhouse is a education institution's website of one of the leading corporate banners of India. The website is based on the WordPress platform - an Open Source CMS of all time.
+# pandas.pydata.org
+- project: pandas.pydata.org
+  role: Contributor-Docs
+  duration: May 15, 2018
+  url: "http://pandas.pydata.org/pandas-docs/stable/release.html"
+  description: pandas is an open source library that provides data structures and data analysis tools for the Python programming language.pandas organised a sprint in which I contributed in enhancing documentation of pandas version 0.23.0.
