@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Hammad Mashkoor
+tagline:             Software Developer from Kanpur.
+url:                 http://hammadmashkoor.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Hammad Mashkoor
+  url:               https://twitter.com/Hammad_Lari
+  email:             mashkoor.hammad@gmail.com
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/jamigibbs/portfolio
+google_analytics:    UA-3363703-15
+twitter:             Hammad_Lari
+github:              hammadmashkoor
+dribbble:            hammad
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist
